@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Special+Elite" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link rel="stylesheet" href="Namnl%C3%B6s-2.css">
+<meta charset="UTF-8">
+<title>Tribute Page</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+    <div id="main">
+
+        <header>
+            <section id="title">
+                <p id="stars">
+                    &#9734 &#9734 &#9734
+                </p>
+                <h1>
+                    MANSA MUSA
+                </h1>
+                <h2>
+                    The Man Behind The Gold
+                </h2>
+            </section>
+        </header>
+
+        <div id="img-div">
+            <img id="image" src="https://i.postimg.cc/MT4p33FQ/mansa.png" alt="picture">
+            <p id="img-caption">
+                Mansa of Mali on his famous journey to Mecca through the<br> Sahara desert
+            </p>
+        </div>
+
+        <div id="history">
+            <article>
+                <h2>
+                    Short History
+                </h2>
+                <p>
+                    Musa I (c. 1280 – c. 1337) or Mansa Musa was the tenth Mansa, which translates to <q>sultan</q>, <q>conqueror</q>, or <q>emperor</q>, of the wealthy West African Islamic Mali Empire.<br> Musa held many titles, including <q>Emir of Melle</q>,
+                    <q>Lord of the Mines of Wangara</q>, <q>Conqueror of Ghanata</q>, and at least a dozen others. Mansa Musa conquered 24 cities, each with surrounding districts containing villages and estates. During his reign, Mali may have been the largest producer
+                    of gold in the
+                    world. He is known to have been enormously wealthy, reported as being inconceivably rich by contemporaries. Time magazine reported: <cite><q>There's really no way to put an accurate number on his wealth.</q></cite>
+                </p>
+            </article>
+        </div>
+
+        <div id="tribute-info">
+            <h2 id="list-title">
+                Here's a time line of Emperor Musa Keita's life:
+            </h2>
+            <ul>
+                <li>
+                    Born sometime around the year 1280 A.D.
+                </li>
+                <li>
+                    In 1312 Musa became emperor following the death of his predecessor, Abu-Bakr II. When he was crowned, he was given the name Mansa.
+                </li>
+                <li>
+                    In 1324 Musa began his pilgrimage with a entourage of thousands of escorts. He also brought considerable amounts of gold, some of which was distributed along the journey.<br>On his stop in Cairo, Egypt, the Emperor gave out so much gold that
+                    he generated a brief decline in its value. Cairo’s gold market recovered over a decade later.
+                </li>
+                <li>
+                    Mansa Musa died in 1337 after a twenty-five year reign. He was succeeded by his son, Maghan I.
+                </li>
+            </ul>
+        </div>
+
+        <div id="more">
+
+            <q id="quote">
+                <cite>The king's rich legacy persisted for generations and to this day, there are mausoleums, libraries, and mosques that stand as a testament to this golden age of Mali's history.</cite>
+            </q>
+
+            <p id="author">
+                -Jessica Smith in her TED-Ed lesson.<br><span id="arrow">&dArr;</span>
+            </p>
+            <div id="iframe-container">
+                <iframe id="iframe" width="420" height="300" src="https://www.youtube.com/embed/O3YJMaL55TM" allowfullscreen>
+                </iframe>
+                <div>
+                    <p id="wiki">
+                        If you have time, you should read more about this incredible leader of his time on his <a id="tribute-link" href="https://en.wikipedia.org/wiki/Musa_I_of_Mali" target="_blank">Wikipedia entry</a>.
+                    </p>
+                </div>
+
+            </div>
+</body>
+
+</html>
